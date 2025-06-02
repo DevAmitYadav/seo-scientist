@@ -1,3 +1,4 @@
+"use client";
 import React, { useEffect } from 'react';
 import ScoreCircle from '../score-circle/page'; 
 
