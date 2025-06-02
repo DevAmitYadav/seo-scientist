@@ -1,7 +1,7 @@
 import express from 'express';
 import cors from 'cors';
 import dotenv from 'dotenv';
-import pagespeedRoutes from './src/routes/pagespeedRoutes.js';
+import pagespeedRoutes from './server/src/routes/pagespeedRoutes.js';
 
 dotenv.config();
 
